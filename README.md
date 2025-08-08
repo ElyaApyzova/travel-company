@@ -1,1 +1,2 @@
-###Travel Company
+# Travel Company
+### HTML, CSS, Javascript
